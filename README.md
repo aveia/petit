@@ -1,4 +1,4 @@
-# petitlisp
+# petit
 A simple lisp-like language; current features:
 
 - a laughable parser
